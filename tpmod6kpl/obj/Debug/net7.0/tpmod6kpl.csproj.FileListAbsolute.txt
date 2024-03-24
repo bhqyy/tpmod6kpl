@@ -1,0 +1,15 @@
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/bin/Debug/net7.0/tpmod6kpl
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/bin/Debug/net7.0/tpmod6kpl.deps.json
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/bin/Debug/net7.0/tpmod6kpl.runtimeconfig.json
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/bin/Debug/net7.0/tpmod6kpl.dll
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/bin/Debug/net7.0/tpmod6kpl.pdb
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.csproj.AssemblyReference.cache
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.AssemblyInfoInputs.cache
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.AssemblyInfo.cs
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.csproj.CoreCompileInputs.cache
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.dll
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/refint/tpmod6kpl.dll
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.pdb
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/tpmod6kpl.genruntimeconfig.cache
+/Users/bhqyy/Projects/tpmod6kpl/tpmod6kpl/obj/Debug/net7.0/ref/tpmod6kpl.dll
